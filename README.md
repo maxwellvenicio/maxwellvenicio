@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, sou Maxwell!<br><br>Trabalho como Analista de Suporte.<br> E atulamente estou estudando HTML, CSS, JAVASCRIPT_ :)
+Olá, sou Maxwell!<br><br>Trabalho como Analista de Suporte.<br> E atulamente estou estudando Desenvolvimento Front End.
 
 
 ## 🌐 Socials:

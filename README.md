@@ -1,6 +1,5 @@
 # 💫 About Me:
-Olá, sou Maxwell!<br><br>Trabalho como Analista de Suporte.<br> E atualmente estou estudando Desenvolvimento Front End.
-
+Estudante de Desenvolvimento Web. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maxwell-venicio-80a7a813a/) 

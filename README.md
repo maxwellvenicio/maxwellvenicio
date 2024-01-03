@@ -1,6 +1,5 @@
 # 💫 About Me:
-Estudante de Desenvolvimento Web. 
-Portfólio em construção...
+Estudante de Desenvolvimento Web // Portfólio em construção...
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maxwell-venicio-80a7a813a/) 

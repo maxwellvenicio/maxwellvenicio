@@ -1,1 +1,1 @@
-Estudante de Desenvolvimento Web Front-End & UI Design
+Desenvolvedor Front-End & UI Design
